@@ -1,0 +1,5 @@
+svnadmin dump svnurL < path
+svn add
+svn commit
+svn log
+svn checkout
